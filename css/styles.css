@@ -1,0 +1,48 @@
+
+/*******************
+	General styling
+*******************/
+
+body {
+	font-family: sans-serif;
+	background: #333;
+	color: #fff;
+	font-size: 1.3em;
+}
+
+.wrapper {
+	text-align: center;
+	margin: 0 auto;
+	padding: 1em;
+}
+
+#quoteDiv {
+	font-style: italic;
+	min-height: 1.5em;
+	background: #454545;
+	border: 2px solid #fff;
+	color: #fff;
+	padding: 1em 0;
+	border-radius: 10px;
+	box-shadow: 5px 5px 15px #ddd;
+}
+
+h1 { 
+	font-size: 2em;
+	margin: 1em 0;
+}
+
+a {
+	font-weight: bold;
+	font-size: 1em;
+	text-decoration: none;
+	margin: 2em 0;
+	display: inline-block;
+	color: #fff;
+	background: #191;
+	padding: 1em 2em;
+	border-radius: 10px;
+	border-bottom: 3px solid #fff;
+}
+
+a:visited, a:active {color: #fff;}
